@@ -118,6 +118,7 @@ import CreateGameForm from "@/components/home/CreateGameForm.vue";
   font-size: 48px;
   font-weight: 700;
   text-align:center;
+  line-height:1.19;
   color: var(--color-surface-primary);
 
   @media #{$tablet-landscape} {
