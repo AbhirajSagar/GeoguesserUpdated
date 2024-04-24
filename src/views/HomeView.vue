@@ -28,7 +28,7 @@
         >
      </span>
       <CreateGameForm />
-      <span :class="$style['page__title']">Explore Your Next<br>Vacation Adventure &#127758;</span>
+      <span :class="$style['page__title']">Your Brand Here</span>
     </div>
     <footer :class="$style['page__footer']">
       <span
