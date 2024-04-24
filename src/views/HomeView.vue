@@ -22,7 +22,7 @@
     <div :class="$style['page__container']">
      <span :class="$style['page__logo']">
         <img
-        src="@/assets/images/logo.svg"
+        src="@/assets/images/logo.png"
         :class="$style['page__logo']"
         alt="Geoguess Master Logo"
         >
