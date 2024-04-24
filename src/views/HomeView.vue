@@ -39,7 +39,7 @@
         }"
       >
         
-        <strong>✈️ makemytrip.com</strong>
+        <strong>your brand site</strong>
       </span>
     </footer>
   </div>
