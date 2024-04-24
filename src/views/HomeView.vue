@@ -39,7 +39,7 @@
         }"
       >
         
-        <strong>your brand site</strong>
+        <strong>🌐 Your brand's site</strong>
       </span>
     </footer>
   </div>
